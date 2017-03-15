@@ -1,0 +1,15 @@
+{
+  "name": "SOS1617-L06-simple",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "agamez2@us.es",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "contributors": [],
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "helmet": "^3.5.0"
+  }
+}
